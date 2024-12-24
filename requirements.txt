@@ -1,0 +1,4 @@
+requests
+streamlit
+pyyaml
+python-dotenv

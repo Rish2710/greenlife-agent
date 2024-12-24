@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Organic Almonds",
+        "description": "High-quality organic almonds.",
+        "price": 10.99
+    },
+    {
+        "id": 2,
+        "name": "Whole Wheat Flour",
+        "description": "100% organic whole wheat flour.",
+        "price": 4.99
+    },
+    {
+        "id": 3,
+        "name": "Quinoa",
+        "description": "Nutritious organic quinoa, a great source of protein.",
+        "price": 5.49
+    },
+    {
+        "id": 4,
+        "name": "Organic Chia Seeds",
+        "description": "High-fiber organic chia seeds for smoothies and recipes.",
+        "price": 7.99
+    },
+    {
+        "id": 5,
+        "name": "Organic Brown Rice",
+        "description": "Wholesome organic brown rice, perfect for healthy meals.",
+        "price": 3.49
+    },
+    {
+        "id": 6,
+        "name": "Organic Coconut Oil",
+        "description": "Pure organic coconut oil for cooking and skin care.",
+        "price": 8.99
+    },
+    {
+        "id": 7,
+        "name": "Organic Maple Syrup",
+        "description": "Pure organic maple syrup, great for pancakes and baking.",
+        "price": 12.99
+    },
+    {
+        "id": 8,
+        "name": "Organic Lentils",
+        "description": "Protein-rich organic lentils, ideal for soups and salads.",
+        "price": 2.99
+    },
+    {
+        "id": 9,
+        "name": "Organic Olive Oil",
+        "description": "Extra virgin organic olive oil for cooking and dressings.",
+        "price": 11.49
+    },
+    {
+        "id": 10,
+        "name": "Organic Honey",
+        "description": "Pure organic honey, perfect for sweetening beverages.",
+        "price": 9.99
+    },
+    {
+        "id": 11,
+        "name": "Organic Oats",
+        "description": "Whole grain organic oats, great for breakfast.",
+        "price": 3.29
+    },
+    {
+        "id": 12,
+        "name": "Organic Spinach",
+        "description": "Fresh organic spinach, perfect for salads and cooking.",
+        "price": 2.99
+    },
+    {
+        "id": 13,
+        "name": "Organic Blueberries",
+        "description": "Fresh organic blueberries, perfect for snacking or smoothies.",
+        "price": 5.99
+    },
+    {
+        "id": 14,
+        "name": "Organic Greek Yogurt",
+        "description": "Creamy organic Greek yogurt, rich in protein.",
+        "price": 4.49
+    },
+    {
+        "id": 15,
+        "name": "Organic Almond Butter",
+        "description": "Smooth organic almond butter, perfect for spreads.",
+        "price": 7.49
+    },
+    {
+        "id": 16,
+        "name": "Organic Sweet Potatoes",
+        "description": "Fresh organic sweet potatoes, nutritious and delicious.",
+        "price": 1.99
+    },
+    {
+        "id": 17,
+        "name": "Organic Cucumbers",
+        "description": "Crisp organic cucumbers, great for salads.",
+        "price": 0.89
+    },
+    {
+        "id": 18,
+        "name": "Organic Carrots",
+        "description": "Crunchy organic carrots, ideal for snacks or cooking.",
+        "price": 1.49
+    },
+    {
+        "id": 19,
+        "name": "Organic Bell Peppers",
+        "description": "Colorful organic bell peppers, perfect for salads and cooking.",
+        "price": 1.99
+    },
+    {
+        "id": 20,
+        "name": "Organic Ginger Root",
+        "description": "Fresh organic ginger root, great for cooking and teas.",
+        "price": 3.99
+    }
+]
